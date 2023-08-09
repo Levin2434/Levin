@@ -1,4 +1,4 @@
-last_ xs = head ( reverse xs )ghci 
+last_ xs = head ( reverse xs )
 
 init_ xs = take (length xs - 1) xs
 
